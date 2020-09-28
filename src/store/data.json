@@ -1,0 +1,26 @@
+[
+  {
+    "name": "BACKLOGS",
+    "headerColor": "#FF009A",
+    "items": [
+              {"id": "c7f25d4b-6a72-d0d5-7d03-fc0b8794fb94","taskName":"task1","description":"description1","username":"user1"},
+              {"id": "6fb2c8e6-5980-9403-f847-51407ab4597a","taskName":"task2","description":"description2","username":"user2"},
+              {"id": "49ad2dd1-5c3e-42e7-c2f0-5c9b193fb676","taskName":"task3","description":"description3","username":"user3"}]
+  },
+  {
+    "name": "IN PROGRESS",
+    "headerColor": "#FF8300",
+    "items": [
+      {"id": "78ab7725-ddee-ba6a-c039-b581ea10e20e","taskName":"task4","description":"description4","username":"user4"},
+      {"id": "081107d7-acb8-93bf-1e49-86da87bbbaf7","taskName":"task5","description":"description5","username":"user5"},
+      {"id": "065d84e2-85e9-5845-23a8-64bfba70f2b3","taskName":"task6","description":"description6","username":"user6"}]
+  },
+  {
+    "name": "COMPLETED",
+    "headerColor": "#238F29",
+    "items": [
+      {"id": "e773b655-8314-23f1-9188-3d295b700cb2","taskName":"task7","description":"description7","username":"user7"},
+      {"id": "3b93acb4-41cf-05e0-55d0-886930342e6e","taskName":"task8","description":"description8","username":"user8"},
+      {"id": "2e855cd8-244d-9f18-3f9d-310b75ff1801","taskName":"task9","description":"description9","username":"user9"}]
+  }
+]
